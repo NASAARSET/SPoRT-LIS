@@ -8,6 +8,6 @@ Open Session 3 Jupyter Demo in Google Colab:
 Direct link here: https://githubtocolab.com/NASAARSET/SPoRT-LIS/blob/main/SPoRT_LIS_Drought_Applications_ARSET.ipynb
 
 Open Session 3 Micolesson Jupyter Homework in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NASAARSET/SPoRT-LIS/blob/main/SPoRT_LIS_Drought_Session3_Microlesson_Homework.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/NASAARSET/SPoRT-LIS/blob/main/SPoRT_LIS_Drought_Session3_Microlesson_Homework.ipynb)
 
 Direct link here: https://githubtocolab.com/NASAARSET/SPoRT-LIS/blob/main/SPoRT_LIS_Drought_Session3_Microlesson_Homework.ipynb
